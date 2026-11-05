@@ -1,0 +1,70 @@
+{
+ "window": [
+  131373134,
+  131565091
+ ],
+ "known": {
+  "0xca58696564492ef9c3229c89072365b253bda246": [
+   "treasury",
+   "0x87443eff758296585f6d6eb7b68800ea6c73f143239e60541a6ef5b1f072d456",
+   130097514
+  ],
+  "0xfb200657f7266157a45dfcc6c09690726daa24e6": [
+   "treasury",
+   "0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125deca9a8bec6624e7",
+   126835408
+  ],
+  "0xf325475201477745f3956f815edb50e8c16426ba": [
+   "0x3ce2c77570a651bd344beb3d3d610aa0548c8ac8",
+   "0xb97bc7b736553fcb93c8e65dea438acc126bdfd4abad9963559ef17391348792",
+   130818784
+  ]
+ },
+ "new": {
+  "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62": {
+   "status": "never_bnb_funded"
+  },
+  "0x4644f7b8679bf0b6f22e69408e2272e9f4417b45": {
+   "status": "never_bnb_funded"
+  },
+  "0x3ccb7381ad4ea4eaab88c370818505771f998c80": {
+   "status": "never_bnb_funded"
+  },
+  "0x3aeae5f742e34f94db19b6c494072957633fa7ca": {
+   "status": "never_bnb_funded"
+  },
+  "0xeba13671a2f1993ee26a4e286db6e491fa5c99bc": {
+   "status": "never_bnb_funded"
+  },
+  "0x252dd866b4e34351d14d7239963979e0ef138765": {
+   "status": "never_bnb_funded"
+  },
+  "0xa15c58e7008fc7a0331cfcc86a28af99fd21b93c": {
+   "status": "never_bnb_funded"
+  },
+  "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8": {
+   "status": "never_bnb_funded"
+  },
+  "0x81e75b9257e8576fce1f6542feff9f88915cbe84": {
+   "status": "never_bnb_funded"
+  },
+  "0xff10257b896be19a98af436ab2f5fdf52fccc3a8": {
+   "status": "never_bnb_funded"
+  },
+  "0xd16446a568f46bca1504422062f23767d8fa58d9": {
+   "status": "never_bnb_funded"
+  },
+  "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c": {
+   "status": "never_bnb_funded"
+  }
+ },
+ "dormant_reverify_latest_balance_wei": {
+  "0x3aeae5f742e34f94db19b6c494072957633fa7ca": 0,
+  "0x4644f7b8679bf0b6f22e69408e2272e9f4417b45": 0,
+  "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c": 0,
+  "0xa15c58e7008fc7a0331cfcc86a28af99fd21b93c": 0,
+  "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62": 0,
+  "0xeba13671a2f1993ee26a4e286db6e491fa5c99bc": 0,
+  "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8": 0
+ }
+}
